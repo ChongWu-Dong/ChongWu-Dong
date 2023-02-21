@@ -5,7 +5,7 @@
 - 📫 How to reach me: 18810306508@163.com
 - 🌱 Go/Python/Redis
 
-- ✍️My technology blog:[CSDN]([https://www.runoob.com](https://blog.csdn.net/Dong_chongwu?spm=1000.2115.3001.5343))
+- ✍️My technology blog:[CSDN](https://blog.csdn.net/Dong_chongwu?spm=1000.2115.3001.5343)
 - https://blog.csdn.net/Dong_chongwu?spm=1000.2115.3001.5343 <span > <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> </span>
   -  
 - 📝
