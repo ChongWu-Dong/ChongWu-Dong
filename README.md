@@ -14,8 +14,8 @@
   - [滑动窗口双指针](https://leetcode.cn/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/solution/hua-dong-chuang-kou-shuang-zhi-zhen-by-x-ilqz/)
   - [动态规划](https://leetcode.cn/problems/coin-change/solution/dong-tai-gui-hua-ling-qian-dui-huan-by-x-92uo/)
 - ✍️ Project experience:
-  - slava是一个github开源项目，项目的主要的工作是用Go语言构建一个高性能、K-V云数据库。[slava项目的连接](https://github.com/ChongWu-Dong/slava)
-  - **南方电网科学研究院**高渗透率新能源计算工具研发项目：
+  - **slava是一个github开源项目**，项目的主要的工作是用Go语言构建一个高性能、K-V云数据库。[slava项目的连接](https://github.com/ChongWu-Dong/slava)
+  - **南方电网科学研究院**高渗透率新能源配电网计算工具研发项目，**项目的负责人**，利用python开发高渗透率新能源配电网计算工具
 - 📝小红书：放弃华北电力本硕博连读资格
   - [跨校考研初试430分上岸经验分享（收藏点赞1000+)](https://www.xiaohongshu.com/user/profile/5f376d64000000000100246e)
 
