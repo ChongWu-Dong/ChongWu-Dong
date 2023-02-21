@@ -12,15 +12,15 @@
   - ...
 - ✍️leetcode题解总结：[leetcode个人主页](https://leetcode.cn/u/xiao-dong-r3/)
   - [滑动窗口双指针](https://leetcode.cn/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/solution/hua-dong-chuang-kou-shuang-zhi-zhen-by-x-ilqz/)
-  - [动态规划]
-- 📝 Project() experience
+  - [动态规划](https://leetcode.cn/problems/coin-change/solution/dong-tai-gui-hua-ling-qian-dui-huan-by-x-92uo/)
+- 📝 Project experience
 - ✍️小红书：放弃华北电力本硕博连读资格
   - [跨校考研初试430分上岸经验分享（收藏点赞1000+)](https://www.xiaohongshu.com/user/profile/5f376d64000000000100246e)
 
 
 
 
-<div align> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ChongWu-Dong&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChongWu-Dong" />  </div>
+<div align> <img height="187px" src="https://github-readme-stats.vercel.app/api?username=ChongWu-Dong&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChongWu-Dong" />  </div>
 
 
 
