@@ -20,7 +20,8 @@
   - [跨校考研初试430分上岸经验分享（收藏点赞1000+)](https://www.xiaohongshu.com/user/profile/5f376d64000000000100246e)
 
 
-
+📈**GitHub Stats**
+___
 
 <div align> <img height="187px" src="https://github-readme-stats.vercel.app/api?username=ChongWu-Dong&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChongWu-Dong" />  </div>
 
@@ -28,9 +29,10 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ChongWu-Dong&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChongWu-Dong" /> </div>
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ChongWu-Dong" /> </div>
+
+
+
 <!--
 **ChongWu-Dong/ChongWu-Dong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
