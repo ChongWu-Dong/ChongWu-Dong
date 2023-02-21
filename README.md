@@ -1,7 +1,7 @@
 ### Hi there 👋,this is XiaoDong✨😄.
 <div align> <img src="https://visitor-badge.glitch.me/badge?page_id=ChongWu-Dong" /> </div>
 
-- 🔭 华南理工大学[_**985研究生**_]/华北电力大学（北京）[_**211本科**_]
+- 🔭 985 **Master**/211 **Bachelor**
 - 📫 How to reach me: 18810306508@163.com
 - 🌱 Go/Python/Redis/电气工程/运筹优化/数学建模
 - ✍️ My technology blog: [CSDN](https://blog.csdn.net/Dong_chongwu?spm=1000.2115.3001.5343)
