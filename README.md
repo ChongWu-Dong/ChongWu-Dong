@@ -1,7 +1,7 @@
 ### Hi there 👋,this is XiaoDong✨😄.
 <div align> <img src="https://visitor-badge.glitch.me/badge?page_id=ChongWu-Dong" /> </div>
 
-- 🔭 华南理工大学985研究生/华北电力大学（北京）211本科
+- 🔭 华南理工大学[_**985研究生**_]/华北电力大学（北京）[_**211本科**_]
 
 - 🌱 Go/Python/Redis
 - 
