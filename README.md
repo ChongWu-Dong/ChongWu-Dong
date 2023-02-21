@@ -3,7 +3,7 @@
 
 - 🔭 华南理工大学[_**985研究生**_]/华北电力大学（北京）[_**211本科**_]
 - 📫 How to reach me: 18810306508@163.com
-- 🌱 Go/Python/Redis/电气工程
+- 🌱 Go/Python/Redis/电气工程/运筹优化/数学建模
 - ✍️ My technology blog: [CSDN](https://blog.csdn.net/Dong_chongwu?spm=1000.2115.3001.5343)
   - [深入浅出理解Go原生Map（1）](https://blog.csdn.net/Dong_chongwu/article/details/128862493?spm=1001.2014.3001.5501)
   - [深入浅出理解Go原生Map（2）之sync.Map](https://blog.csdn.net/Dong_chongwu/article/details/128862744?spm=1001.2014.3001.5501)
